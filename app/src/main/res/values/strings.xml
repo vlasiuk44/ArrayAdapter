@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Adapter</string>
+    <string name="create_user">Создать нового пользователя</string>
+    <string-array name="names">
+        <item>qwe</item>
+        <item>rty</item>
+        <item>uio</item>
+        <item>pas</item>
+        <item>dfg</item>
+    </string-array>
+    <string-array name="surnames">
+        <item>hjk</item>
+        <item>lzx</item>
+        <item>cvb</item>
+        <item>nmq</item>
+        <item>wer</item>
+    </string-array>
+</resources>
